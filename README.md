@@ -802,6 +802,9 @@ liveness и readiness пробы в Kubernetes
 
 ## 10.  Схема проекта
 
+![project_scheme](images/project_scheme_full.png)
+
+
 ## 11.  Расчет ресурсов
 
 
